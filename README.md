@@ -7,6 +7,11 @@ We implement:
 
 ### Examples of illustrations 
 
+![R_T_asian](assets/R_T_asian.png)
+
+![inventory_fractionless](assets/inventory_frictionless.png)
+
+![inventory_hjb](assets/inventory_hjb.png)
 
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 

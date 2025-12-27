@@ -7,6 +7,8 @@ We implement:
 
 ### Examples of illustrations 
 
+![multiple_nu](assets/multiple_nu.png)
+
 ![R_T_asian](assets/R_T_asian.png)
 
 ![inventory_fractionless](assets/inventory_frictionless.png)
